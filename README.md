@@ -1,3 +1,3 @@
 # node-mocha-mutant-test
 
-1
+2
